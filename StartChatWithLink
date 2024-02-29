@@ -46,7 +46,7 @@
 		//embedded_svc.settings.directToButtonRouting = function(prechatFormData) {
 			// Dynamically changes the button ID based on what the visitor enters in the pre-chat form.
 			// Returns a valid button ID.
-		//};
+		};
 		//embedded_svc.settings.prepopulat
 </script>
 </html>
