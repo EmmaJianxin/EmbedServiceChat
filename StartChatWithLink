@@ -52,7 +52,7 @@
 		//};
 		//embedded_svc.settings.prepopulatedPrechatFields = {}; //Sets the auto-population of pre-chat form fields
 		//embedded_svc.settings.fallbackRouting = []; //An array of button IDs, user IDs, or userId_buttonId
-		embedded_svc.settings.offlineSupportMinimizedText = '★オペレータに相談する (有人応答)'; //(Defaults to Contact Us)
+		embedded_svc.settings.offlineSupportMinimizedText = '★オペレータに相談する'; //(Defaults to Contact Us)
 		embedded_svc.settings.enabledFeatures = ['LiveAgent'];
 		embedded_svc.settings.entryFeature = 'LiveAgent';
 		embedded_svc.init(
